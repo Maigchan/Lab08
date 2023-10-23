@@ -1,0 +1,15 @@
+D:\Multiplataformas\lab8\Data\bin\Debug\net6.0\Data.deps.json
+D:\Multiplataformas\lab8\Data\bin\Debug\net6.0\Data.dll
+D:\Multiplataformas\lab8\Data\bin\Debug\net6.0\Data.pdb
+D:\Multiplataformas\lab8\Data\bin\Debug\net6.0\Entity.dll
+D:\Multiplataformas\lab8\Data\bin\Debug\net6.0\Entity.pdb
+D:\Multiplataformas\lab8\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Multiplataformas\lab8\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Multiplataformas\lab8\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Multiplataformas\lab8\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Multiplataformas\lab8\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\Multiplataformas\lab8\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+D:\Multiplataformas\lab8\Data\obj\Debug\net6.0\Data.dll
+D:\Multiplataformas\lab8\Data\obj\Debug\net6.0\refint\Data.dll
+D:\Multiplataformas\lab8\Data\obj\Debug\net6.0\Data.pdb
+D:\Multiplataformas\lab8\Data\obj\Debug\net6.0\ref\Data.dll

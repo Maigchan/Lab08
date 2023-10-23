@@ -1,0 +1,17 @@
+D:\Multiplataformas\lab8\Business\bin\Debug\net6.0\Business.deps.json
+D:\Multiplataformas\lab8\Business\bin\Debug\net6.0\Business.dll
+D:\Multiplataformas\lab8\Business\bin\Debug\net6.0\Business.pdb
+D:\Multiplataformas\lab8\Business\bin\Debug\net6.0\Data.dll
+D:\Multiplataformas\lab8\Business\bin\Debug\net6.0\Entity.dll
+D:\Multiplataformas\lab8\Business\bin\Debug\net6.0\Data.pdb
+D:\Multiplataformas\lab8\Business\bin\Debug\net6.0\Entity.pdb
+D:\Multiplataformas\lab8\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\Multiplataformas\lab8\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Multiplataformas\lab8\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Multiplataformas\lab8\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Multiplataformas\lab8\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Multiplataformas\lab8\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+D:\Multiplataformas\lab8\Business\obj\Debug\net6.0\Business.dll
+D:\Multiplataformas\lab8\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Multiplataformas\lab8\Business\obj\Debug\net6.0\Business.pdb
+D:\Multiplataformas\lab8\Business\obj\Debug\net6.0\ref\Business.dll
